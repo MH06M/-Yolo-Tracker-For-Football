@@ -30,7 +30,7 @@ This project demonstrates the power of modern computer vision in sports analytic
 https://github.com/user-attachments/assets/fa465aae-d491-4cd0-b85f-fe5e724570c6
 
 ## 📖 Dataset
-Here is a link for a diverse dataset you could use to test the program: https://drive.google.com/file/d/1rP2uvNpDNz6TuP_QBM_hbt0Ojbxk-FJN/view?usp=sharing
+Here is a link for a diverse dataset you could use to test the program: https://drive.google.com/file/d/1rP2uvNpDNz6TuP_QBM_hbt0Ojbxk-FJN/view?usp=sharing.
 
 ## 🦸 Team
 - Mostafa Hany
